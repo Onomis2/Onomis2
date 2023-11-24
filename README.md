@@ -1,5 +1,5 @@
-###                                                   = = _- ☆ - _
-###                                                        - == ☆ _ - 
+###               = = _- ☆ - _
+###                     - == ☆ _ - 
 
 Hi there! I'm Simon, better known as Onomis. I am a Dutch person who is currently learning how to write and apply code at Bit-Academy. I also like to play Beat-Saber and Minecraft.
 
