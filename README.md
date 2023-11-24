@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Simon, better known as Onomis. I am a Dutch person who is currently learning how to write and apply code at Bit-Academy.
 
 <!--
 **Onomis2/Onomis2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
