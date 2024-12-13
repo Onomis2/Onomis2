@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a **software development student** with a pass
 
 ## ✨ Fun Facts  
 - 🌍 I've traveled to Japan, Germany, and am planning a trip to Canada next summer.  
-- 🎮 I'm ranked **[Top 1000 globally](https://scoresaber.com/u/76561198065944574)** in Beat Saber and my goal is to compete in the [**Beat Saber World Cuo](https://cube.community/tournaments)**.  
+- 🎮 I'm ranked **[Top 1000 globally](https://scoresaber.com/u/76561198065944574)** in Beat Saber and my goal is to compete in the **[Beat Saber World Cup](https://cube.community/tournaments)**.  
 - 📚 I love **anime**, **manga**, and **video games**.  
 
 ---
