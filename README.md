@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a **software development student** at **Bit-Ac
 
 ## 🚀 Current Projects  
 -  **[Monster collecting game](https://github.com/Onomis2/TempName)**: A project spawned from a curiosity in which I try to build a pokemon-like monster collecting game.  
--  <!-- **[Music database website](https://github.com/your-repo-link)**: A website where users can build their own database of music to save and listen to.  -->
+-  **[LuAnts](https://github.com/Onomis2/Simple-Particle-Simulator)**: A small project that simulates ants.
 -  **[Hearts of iron 4 mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3319733182)**: *The Game Masters Total Overhaul* - A twist of the vanilla game where we inserted ourselves onto the world stage as the leaders of nations.
 
 ---
