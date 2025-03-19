@@ -14,13 +14,15 @@ Welcome to my GitHub profile! I'm a **software development student** at **Bit-Ac
 ## 💡 Skills  
 - **Lua**: ⭐⭐⭐⭐★.  
 - **PHP**: ⭐⭐⭐★★.  
-- **SQL**: ⭐⭐★★★.  
+- **SQL**: ⭐⭐★★★.
+- **C#**: ⭐⭐★★★. 
 
 ---
 
 ## ⭐ Projects I'm proud of
 - **[Game of Life](https://github.com/Onomis2/DeepDive-Love2d-Game-of-Life)**: A school assignment where we had to build the game of life within a week time.
 - **[Particle Simulator](https://github.com/Onomis2/Simple-Particle-Simulator)**: A simple experiment I decided to make based off 'The Powder Toy'.
+- **[LuAnts](https://github.com/Onomis2/Simple-Particle-Simulator)**: A small project that simulates ants.
 
 ---
 
