@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a **software development student** at **Bit-Ac
 - **Lua**: ⭐⭐⭐⭐★.  
 - **PHP**: ⭐⭐⭐★★.  
 - **SQL**: ⭐⭐★★★.
-- **C#**: ‎ ⭐⭐★★★. 
+- **C#** :‎ ⭐⭐★★★. 
 
 ---
 
