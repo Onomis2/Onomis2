@@ -22,13 +22,13 @@ Welcome to my GitHub profile! I'm a **software development student** at **Bit-Ac
 ## ⭐ Projects I'm proud of
 - **[Game of Life](https://github.com/Onomis2/DeepDive-Love2d-Game-of-Life)**: A school assignment where we had to build the game of life within a week time.
 - **[Particle Simulator](https://github.com/Onomis2/Simple-Particle-Simulator)**: A simple experiment I decided to make based off 'The Powder Toy'.
-- **[LuAnts](https://github.com/Onomis2/Simple-Particle-Simulator)**: A small project that simulates ants.
+- **[LuAnts](https://github.com/Onomis2/LuAnts)**: A small project that simulates ants.
 
 ---
 
 ## 🚀 Current Projects  
 -  **[Monster collecting game](https://github.com/Onomis2/TempName)**: A project spawned from a curiosity in which I try to build a pokemon-like monster collecting game.  
--  **[LuAnts](https://github.com/Onomis2/Simple-Particle-Simulator)**: A small project that simulates ants.
+-  **[LuAnts](https://github.com/Onomis2/LuAnts)**: A small project that simulates ants.
 -  **[Hearts of iron 4 mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3319733182)**: *The Game Masters Total Overhaul* - A twist of the vanilla game where we inserted ourselves onto the world stage as the leaders of nations.
 
 ---
