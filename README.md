@@ -1,6 +1,6 @@
 # Hi there, I'm Simon! 👋  
 
-Welcome to my GitHub profile! I'm a **software development student** at **Bit-Academy**. I like to work in **game development**, **web development** and **modding**.
+Welcome to my GitHub profile! I'm a **software development student** at **Bit-Academy**. I like to work on **game development**, **app development** and **modding**.
 
 ---
 
